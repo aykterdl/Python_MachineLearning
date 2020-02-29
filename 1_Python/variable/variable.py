@@ -27,7 +27,7 @@ print(s)
 
 var1 = "Ankara"
 var2 = "İstanbul"
-var3 = var1 + var2
+var3 = var1 + " - " + var2
 print(var3)
 
 uzunluk = len(var3)
